@@ -1,2 +1,2 @@
-# navbar-test
-Navbar testing with Bootstrap
+# Bootstrap navbar
+Navbar testing with Bootstrap and its methods of coding.
